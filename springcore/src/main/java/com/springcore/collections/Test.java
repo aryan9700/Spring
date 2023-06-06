@@ -11,6 +11,7 @@ public class Test {
 		System.out.println(emp1.getPhones());
 		System.out.println(emp1.getAddresses());
 		System.out.println(emp1.getSpec());
+		System.out.println(emp1.getPhones().getClass().getName());
 		
 		
 		
